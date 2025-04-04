@@ -8,3 +8,8 @@ this dashboard will help stakeholder to monitor the insights and make better dec
 ##### Patient Age Distribution - Group the patient by ages
 ##### Gender Analysis - Displayed number of patient by gender
 ##### Department Referrals - Check which department patient refers the most
+
+## Tools Used
+#### Microsoft Excel
+#### Pivot Table
+#### Pivot Charts
